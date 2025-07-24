@@ -1,4 +1,4 @@
-# 🌿 Wellness App
+# 🌿 MindEase App
 
 Welcome to my **Wellness Web App** — a simple, mobile-friendly site built with HTML and CSS to promote self-care, mindfulness, and balance. ✨
 
